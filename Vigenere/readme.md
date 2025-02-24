@@ -29,7 +29,12 @@ This program demonstrates the **encryption** and **decryption** processes of the
 ---
 
 ## **Setup and Execution**
-### Clone the Repository
+### **1. Clone the Repository**
 ```sh
 git clone https://github.com/MrudulMascarenhas/Vigenere.git
 cd vigenere-cipher
+```
+
+### **2. Run the Code in Google Colab**
+You can also execute the code using Google Colab:
+[Vigenère Cipher on Google Colab](https://colab.research.google.com/github/MrudulMascarenhas/INS_LAB/blob/main/Vigenere.ipynb)
