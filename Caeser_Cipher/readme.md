@@ -8,11 +8,11 @@ This program demonstrates the **encryption** and **decryption** processes of the
 ---
 
 ## **Features**
- Supports both **encryption** and **decryption**  
- Works with **uppercase and lowercase** letters  
- Preserves **non-alphabetic characters** (spaces, numbers, punctuation)  
- Shift key wraps around using **modulo 26** for proper letter rotation  
- Simple and efficient implementation in **Python**  
+ - Supports both **encryption** and **decryption**  
+ - Works with **uppercase and lowercase** letters  
+ - Preserves **non-alphabetic characters** (spaces, numbers, punctuation)  
+ - Shift key wraps around using **modulo 26** for proper letter rotation  
+ - Simple and efficient implementation in **Python**  
 
 ---
 
@@ -31,5 +31,11 @@ This program demonstrates the **encryption** and **decryption** processes of the
 ## **Setup and Execution**
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/caesar-cipher.git
-cd caesar-cipher
+git clone https://github.com/MrudulMascarenhas/Caser_Cipher.git
+cd vigenere-cipher
+```
+
+### **2. Run the Code in Google Colab**
+You can also execute the code using Google Colab:
+[Caesar Cipher on Google Colab](https://colab.research.google.com/drive/1Ip42Ma0JSBhhAlAaoqzOxsmHkpR83dCB?usp=sharing)
+
