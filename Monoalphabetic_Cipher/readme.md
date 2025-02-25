@@ -24,13 +24,14 @@ This program demonstrates the encryption and decryption processes of the Monoalp
 
 ---
 
-## Getting Started  
-
-### Clone the Repository  
-
-```bash
-git clone https://github.com/your-username/INS-LAB.git
-cd INS-Lab
+## **Setup and Execution** 
+### **1. Clone the Repository** 
+```sh 
+git clone https://github.com/MrudulMascarenhas/Monoalphabetic_Cipher.git 
+```
+### **2. Run the Code in Google Colab** 
+You can also execute the code using Google Colab: 
+[Monoalphabetic Cipher on Google Colab](https://colab.research.google.com/drive/1sMjr-0RvIBzsiE4o2QMTgJ8wxTUE3LbQ?usp=sharing)
 
 
 
