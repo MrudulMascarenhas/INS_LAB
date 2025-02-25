@@ -47,3 +47,12 @@ Each pair of letters is encrypted using these rules:
 
 ### Note:
 - Only alphabetic characters (A-Z) are considered.
+## **Setup and Execution**
+### **1. Clone the Repository**
+```sh
+git clone https://github.com/MrudulMascarenhas/play_fair.git
+```
+
+### **2. Run the Code in Google Colab**
+You can also execute the code using Google Colab:
+[Playfair Cipher on Google Colab](https://colab.research.google.com/drive/1Z0143gJWuKCyezk_5rWzLc5OIRC-qOW1?usp=sharing)
