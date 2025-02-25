@@ -33,5 +33,5 @@ Explore and implement the following modern cryptographic algorithms:
 ### Clone the Repository  
 
 ```bash
-git clone https://github.com/your-username/INS-LAB.git
-cd INS-Lab
+git clone https://github.com/MrudulMascarenhas/INS_LAB.git
+cd INS_Lab
