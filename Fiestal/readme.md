@@ -36,8 +36,6 @@ This serves as a fundamental introduction to encryption techniques used in **net
 ## **Setup and Execution**
 ### **1. Clone the Repository**
 git clone https://github.com/MrudulMascarenhas/Fiestal.git
-cd Fiestal
-
 
 ### **2. Run the Code in Google Colab**
 You can also execute the code using Google Colab:
