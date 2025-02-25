@@ -12,7 +12,7 @@ This program demonstrates the **encryption** and **decryption** processes of the
  Works with **uppercase and lowercase** letters  
  Preserves **non-alphabetic characters** (spaces, numbers, punctuation)  
  Uses a **repeating key** for shifting letters  
- Simple and efficient implementation in **Python**  
+ Simple and efficient implementation in Python  
 
 ---
 
