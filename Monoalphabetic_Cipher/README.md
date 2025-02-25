@@ -14,7 +14,6 @@ This program demonstrates the encryption and decryption processes of the Monoalp
  - Works with uppercase and lowercase letters
  - Preserves non-alphabetic characters (spaces, numbers, punctuation)
  - Uses a predefined substitution mapping for stronger encryption than Caesar Cipher
- - Simple and efficient implementation in Python
 
 ### How It Works
  
